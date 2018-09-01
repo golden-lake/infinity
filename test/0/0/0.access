@@ -3,7 +3,9 @@
     "V2DtSgpKQUqGMpayt8yzyetx6Jih98cQDDu+hC8P5lA=",
     {
       "email": "V2DtSgpKQUqGMpayt8yzyetx6Jih98cQDDu+hC8P5lA=",
-      "roles": [],
+      "roles": [
+        "ADMIN"
+      ],
       "tokenHash": "l+nO4VwV+ylEFSVJIRg1cAFDC58W3a8/mskW6f1d4x0="
     }
   ]
