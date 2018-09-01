@@ -13,7 +13,9 @@
     "Q+aE2mscru6eOZ4qu6xfkXEXmhxeU4NTWEampvjuDjQ=",
     {
       "email": "Q+aE2mscru6eOZ4qu6xfkXEXmhxeU4NTWEampvjuDjQ=",
-      "roles": [],
+      "roles": [
+        "USER"
+      ],
       "tokenHash": "GQnlP4AtwWWNr/Nww0oDjh+WZ53aqBCf9QC5dNWw4zA="
     }
   ]
